@@ -45,7 +45,6 @@
 - ✨ Swift
 
 - ✨ C/C++
-- ✨ Procurar novas ferramentas para utilizar
 
 </br>
 
