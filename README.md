@@ -82,13 +82,13 @@
 
 Se você quer entrar em contato comigo para qualquer coisa, seja para trocar alguma ideia, discutirmos algo, etc. basta me avisar 😉.
 
-- ✨ <a href="linkedin.com/in/lucioandradejr">LinkedIn</a>
+- ✨ <a href="https://linkedin.com/in/lucioandradejr">LinkedIn</a>
 
 - ✨ <a href="mailto:lucioandradejr@gmail.com">E-mail</a>
 
-- ✨ <a href="github.com/lucioroadtoglory">GitHub</a>
+- ✨ <a href="https://github.com/lucioroadtoglory">GitHub</a>
 
-- ✨ <a href="instagram.com/lucioroadtoglory">Instagram</a>
+- ✨ <a href="https://instagram.com/lucioroadtoglory">Instagram</a>
 
 <div  align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=lucioroadtoglory&&show_icons=true&theme=tokyonight"/>
