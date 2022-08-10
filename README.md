@@ -32,10 +32,6 @@
 
 </br>
 
-</br>
-
-</br>
-
 # Linguagens de programação 👨‍💻:
 
 <div  align="center">
@@ -50,10 +46,6 @@
 
 - ✨ C/C++
 - ✨ Procurar novas ferramentas para utilizar
-
-</br>
-
-</br>
 
 </br>
 
@@ -84,10 +76,6 @@
 - ✨ Figma
 
 - ✨ Insomnia
-
-</br>
-
-</br>
 
 </br>
 
