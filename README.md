@@ -58,8 +58,6 @@
 
 - ✨ React/React Native/NextJS
 
-- ✨ NextJS
-
 - ✨ ZSH/Fish
 
 - ✨ MacOS (Monterey 12.5)
