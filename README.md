@@ -1,13 +1,4 @@
-# Olá, pessoa 👋
-
-<div  align="center">
-<img    width="700"  alt="GIF"  align="center"  src="https://c.tenor.com/2znYAjy7LOMAAAAC/sanji.gif">
-</div>
-
-</br>
-</br>
-</br>
-
+*Olá, pessoa 👋*
 # Sobre mim 💬 :
 
 ### - Olá, eu sou o Lúcio (também conhecido como `lucioroadtoglory` ou `lucioreyli`) e tenho 19 anos. Atualmente trabalho na [Riderize](https://www.linkedin.com/company/riderize/) e minha linguagem de programação principal é o [TypeScript](https://www.typescriptlang.org), no qual tenho bastante proficiência. Gosto também de dar dicas no meu [LinkedIn](https://www.linkedin.com/in/lucioandradejr) sobre assuntos relacionados a TypeScript e JavaScript.
