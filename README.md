@@ -47,7 +47,7 @@
 
 - ✨ ZSH/Fish (shell)
 
-- ✨ MacOS (Monterey 12.5.1)
+- ✨ MacOS (Monterey 12.6)
 
 - ✨ VSCode/Vim (NeoVim)
 
