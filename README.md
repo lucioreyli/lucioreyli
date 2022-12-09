@@ -3,6 +3,14 @@
 
 ### - Olá, eu sou o Lúcio (também conhecido como `lucioroadtoglory` ou `lucioreyli`) e tenho 19 anos. Atualmente trabalho na [Riderize](https://www.linkedin.com/company/riderize/) e minha linguagem de programação principal é o [TypeScript](https://www.typescriptlang.org), no qual tenho bastante proficiência. Gosto também de dar dicas no meu [LinkedIn](https://www.linkedin.com/in/lucioandradejr) sobre assuntos relacionados a TypeScript e JavaScript.
 
+<div  align="center">
+  <p>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=lucioroadtoglory&theme=dark)
+      
+  </p>
+</div>
+  
 ### - Aprendendo :
 
 - ✨ Swift/Swift UI
@@ -66,9 +74,5 @@ Se você quer entrar em contato comigo para qualquer coisa, seja para trocar alg
 - ✨ <a href="https://github.com/lucioroadtoglory">GitHub</a>
 
 - ✨ <a href="https://instagram.com/lucioroadtoglory">Instagram</a>
-
-<div  align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=lucioroadtoglory&&show_icons=true&theme=tokyonight"/>
-</p>
 
 ---
