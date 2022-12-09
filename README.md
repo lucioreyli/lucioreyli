@@ -37,11 +37,11 @@
   <img      width="300"  alt="GIF"  align="center"  src="https://c.tenor.com/RyRSYTTNxOgAAAAC/vinsmoke-sanji-cooking.gif">
 </div>
 
-- ✨ TypeScript | Javascript
+- ✨ <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> TypeScript
 
-- ✨ Swift
+- ✨ <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> Javascript 
 
-- ✨ C/C++
+- ✨ <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> Swift
 
 </br>
 
