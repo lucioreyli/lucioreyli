@@ -34,7 +34,7 @@
 # Linguagens de programação 👨‍💻:
 
 <div  align="center">
-<img      width="300"  alt="GIF"  align="center"  src="https://c.tenor.com/RyRSYTTNxOgAAAAC/vinsmoke-sanji-cooking.gif">
+  <img      width="300"  alt="GIF"  align="center"  src="https://c.tenor.com/RyRSYTTNxOgAAAAC/vinsmoke-sanji-cooking.gif">
 </div>
 
 - ✨ TypeScript | Javascript
@@ -73,6 +73,6 @@ Se você quer entrar em contato comigo para qualquer coisa, seja para trocar alg
 
 - ✨ <a href="https://github.com/lucioroadtoglory">GitHub</a>
 
-- ✨ <a href="https://instagram.com/lucioroadtoglory">Instagram</a>
+- ✨ <a href="https://instagram.com/lucioreyli">Instagram</a>
 
 ---
