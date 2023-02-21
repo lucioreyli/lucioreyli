@@ -1,37 +1,36 @@
-*Olá, pessoa 👋*
-# Sobre mim 💬 :
+*Hi, there 👋*
+# About me 💬 :
 
-### - Olá, eu sou o Lúcio (também conhecido como `lucioroadtoglory` ou `lucioreyli`) e tenho 19 anos. Atualmente trabalho na [Riderize](https://www.linkedin.com/company/riderize/) e minha linguagem de programação principal é o [TypeScript](https://www.typescriptlang.org), no qual tenho bastante proficiência. Gosto também de dar dicas no meu [LinkedIn](https://www.linkedin.com/in/lucioandradejr) sobre assuntos relacionados a TypeScript e JavaScript.
+## - Hi, I am Lúcio (aka "lucioroadtoglory" or "lucioreyli") and I'm 19 years old. I actualy work at [Riderize](https://www.linkedin.com/company/riderize/) and my main programming language is [TypeScript](https://www.typescriptlang.org) and I'm expert TypeScript developer. I like to share tips (and tricks) on my [LinkedIn](https://www.linkedin.com/in/lucioandradejr) about TypeScript and JavaScript (portuguese only, sorry 😔).
 
 <div  align="center">
   <p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lucioroadtoglory&theme=dark)
-      
+
   </p>
 </div>
   
-### - Aprendendo :
+### - Learning:
 
-- ✨ Swift/Swift UI
+- ✨ Rust
 
-- ✨ .NET
-
-- ✨ Módulos nativos - React Native
+- ✨ Native Modules - React Native
 
 ### - Hobbies :
 
 - ✨ One Piece
 
-- ✨ Estudar
+- ✨ Learn
 
-- ✨ Contribuir com projetos open source
+- ✨ Contribute to open source projects
 
-- ✨ Procurar novas ferramentas para utilizar
+
+- ✨ Search new tools (or technology) to use while coding
 
 </br>
 
-# Linguagens de programação 👨‍💻:
+# Programming languages 👨‍💻:
 
 <div  align="center">
   <img      width="300"  alt="GIF"  align="center"  src="https://c.tenor.com/RyRSYTTNxOgAAAAC/vinsmoke-sanji-cooking.gif">
@@ -45,7 +44,7 @@
 
 </br>
 
-# Tecnologias e ferramentas 👨‍💻:
+# Tools and Technologies 👨‍💻:
 
 - ✨ NodeJS
 
@@ -53,19 +52,19 @@
 
 - ✨ ReactJS/React Native/NextJS
 
-- ✨ ZSH/Fish (shell)
+- ✨ Fish Shell
 
-- ✨ MacOS (Ventura 13.0.1)
+- ✨ MacOS (Ventura 13.2)
 
-- ✨ VSCode/Vim (NeoVim)
+- ✨ VSCode and Vim (NeoVim)
 
 - ✨ iTerm2 | Beekeeper | Notion | Jira | Figma | Insomnia
 
 </br>
 
-# Contato 📧 :
+# Contact 📧 :
 
-Se você quer entrar em contato comigo para qualquer coisa, seja para trocar alguma ideia, discutirmos algo, etc. basta me avisar 😉.
+If you wanna talk just send a message to me!
 
 - ✨ <a href="https://linkedin.com/in/lucioandradejr">LinkedIn</a>
 
