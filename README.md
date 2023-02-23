@@ -1,7 +1,7 @@
 *Hi, there 👋*
 # About me 💬 :
 
-## - Hi, I am Lúcio (aka "lucioroadtoglory" or "lucioreyli") and I'm 19 years old. I actualy work at [Riderize](https://www.linkedin.com/company/riderize/) and my main programming language is [TypeScript](https://www.typescriptlang.org) and I'm expert TypeScript developer. I like to share tips (and tricks) on my [LinkedIn](https://www.linkedin.com/in/lucioandradejr) about TypeScript and JavaScript (portuguese only, sorry 😔).
+## - Hi, I am Lúcio (aka "lucioroadtoglory" or "lucioreyli") and I'm 19 years old. I actualy work at [Riderize](https://www.linkedin.com/company/riderize/) and my main programming language is [TypeScript](https://www.typescriptlang.org). I like to share tips (and tricks) on my [LinkedIn](https://www.linkedin.com/in/lucioandradejr) about TypeScript and JavaScript (portuguese only, sorry 😔).
 
 <div  align="center">
   <p>
