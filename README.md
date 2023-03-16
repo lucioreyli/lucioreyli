@@ -72,6 +72,4 @@ If you wanna talk just send a message to me!
 
 - ✨ <a href="https://github.com/lucioroadtoglory">GitHub</a>
 
-- ✨ <a href="https://instagram.com/lucioreyli">Instagram</a>
-
 ---
