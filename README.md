@@ -1,7 +1,7 @@
 *Hi, there 👋*
 # About me 💬 :
 
-## - Hi, I am Lúcio (aka "lucioroadtoglory" or "lucioreyli") and I'm 19 years old. I actualy work at [Riderize](https://www.linkedin.com/company/riderize/) and my main programming language is [TypeScript](https://www.typescriptlang.org). I like to share tips (and tricks) on my [LinkedIn](https://www.linkedin.com/in/lucioandradejr) about TypeScript and JavaScript (portuguese only, sorry 😔).
+## - Hi, I am Lucio  and I'm 19 years old. My main programming language is [TypeScript](https://www.typescriptlang.org). I like to share tips (and tricks) on my [LinkedIn](https://www.linkedin.com/in/lucioandradejr) about TypeScript and JavaScript (portuguese posts only).
 
 <div  align="center">
   <p>
@@ -24,7 +24,6 @@
 - ✨ Learn
 
 - ✨ Contribute to open source projects
-
 
 - ✨ Search new tools (or technology) to use while coding
 
@@ -54,7 +53,7 @@
 
 - ✨ Fish Shell
 
-- ✨ MacOS (Ventura 13.2)
+- ✨ MacOS (Ventura 13.5)
 
 - ✨ VSCode and Vim (NeoVim)
 
