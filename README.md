@@ -17,7 +17,7 @@
 
 - ✨ Native Modules - React Native
 
-### - Hobbies :
+### - Hobbies:
 
 - ✨ One Piece
 
