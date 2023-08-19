@@ -69,6 +69,4 @@ If you wanna talk just send a message to me!
 
 - ✨ <a href="mailto:lucioandradejr@gmail.com">E-mail</a>
 
-- ✨ <a href="https://github.com/lucioroadtoglory">GitHub</a>
-
 ---
