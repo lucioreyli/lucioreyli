@@ -53,7 +53,7 @@
 
 - ✨ Fish Shell
 
-- ✨ MacOS (Ventura 13.5.1)
+- ✨ MacOS Sonoma (14.0)
 
 - ✨ VSCode and Vim (NeoVim)
 
