@@ -6,7 +6,7 @@
 <div  align="center">
   <p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=lucioroadtoglory&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lucioreyli&theme=dark)
 
   </p>
 </div>
