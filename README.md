@@ -12,7 +12,7 @@ I'm from Brazil 🇧🇷 and I'm 20 y/o.
 
 ### Setup
 
-> Sonoma 14.5 + VSCode/Neovim + Alacritty + HTTPie + Orion/Arc
+> Sequoia 15.x + Zed/Neovim + WezTerm + HTTPie + Zen
 
 ### Contact
 [E-mail](mailto:lucioandradejr@gmail.com) | [LinkedIn](https://linkedin.com/in/lucioandradejr) | [Discord: luci1reyli](https://discord.gg/nM3dsTuT)
